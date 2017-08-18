@@ -1,18 +1,38 @@
 {
-    "id": "46f1ae28-9008-4b8b-b7ba-25ec3a30dc49",
+    "id": "1f50a2cd-bcf1-4de1-ab76-19e99880e50f",
     "modelName": "GMObject",
     "mvc": "1.0",
     "name": "objGameOver",
     "eventList": [
         {
-            "id": "383a8b44-8bb2-4186-a863-991dac9b16cf",
+            "id": "21b0edd1-0b30-45da-a311-eb8721c6f1d3",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": true,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 82,
+            "eventtype": 9,
+            "m_owner": "1f50a2cd-bcf1-4de1-ab76-19e99880e50f"
+        },
+        {
+            "id": "ddfdd096-92be-4f07-becc-425febce13ab",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": true,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
             "eventtype": 8,
-            "m_owner": "46f1ae28-9008-4b8b-b7ba-25ec3a30dc49"
+            "m_owner": "1f50a2cd-bcf1-4de1-ab76-19e99880e50f"
+        },
+        {
+            "id": "6856dc00-1c39-44bc-bb36-ccd2a884e516",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": true,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 0,
+            "m_owner": "1f50a2cd-bcf1-4de1-ab76-19e99880e50f"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
