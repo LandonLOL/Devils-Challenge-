@@ -1,22 +1,3 @@
-/// @DnDAction : YoYo Games.Common.Variable
-/// @DnDVersion : 1
-/// @DnDHash : 63505E8C
-/// @DnDArgument : "var" "global.iLevel1Score"
-global.iLevel1Score = 0;
-
-/// @DnDAction : YoYo Games.Common.Variable
-/// @DnDVersion : 1
-/// @DnDHash : 41F33F25
-/// @DnDArgument : "var" "global.iLevel1Time"
-global.iLevel1Time = 0;
-
-/// @DnDAction : YoYo Games.Common.Variable
-/// @DnDVersion : 1
-/// @DnDHash : 6677BB3F
-/// @DnDArgument : "expr" "instance_number(objCoin)"
-/// @DnDArgument : "var" "iCollect"
-iCollect = instance_number(objCoin);
-
 /// @DnDAction : YoYo Games.Movement.Set_Direction_Fixed
 /// @DnDVersion : 1.1
 /// @DnDHash : 68847EDC
@@ -37,3 +18,16 @@ speed = 2;
 /// @DnDSaveInfo : "spriteind" "7c1f6203-4c66-4500-930b-99ea3367158a"
 sprite_index = sprPlayerLeft;
 image_index = 0;
+
+/// @DnDAction : YoYo Games.Common.Variable
+/// @DnDVersion : 1
+/// @DnDHash : 05B28E41
+/// @DnDArgument : "expr" "1"
+/// @DnDArgument : "var" "bPlayerInputEnabled"
+bPlayerInputEnabled = 1;
+
+/// @DnDAction : YoYo Games.Common.Variable
+/// @DnDVersion : 1
+/// @DnDHash : 0612D0EB
+/// @DnDArgument : "var" "PlayerDieOnce"
+PlayerDieOnce = 0;
