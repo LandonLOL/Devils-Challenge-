@@ -5,36 +5,6 @@
     "name": "objPlayer1",
     "eventList": [
         {
-            "id": "9acf5947-0f84-40ba-b016-24d85341b225",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": true,
-            "collisionObjectId": "8178bb89-1f29-4382-a6b3-54308ef3ae82",
-            "enumb": 0,
-            "eventtype": 4,
-            "m_owner": "76ae759e-264c-42b3-bb9a-a3ee2bc33aa7"
-        },
-        {
-            "id": "daa6ca24-aa05-40a4-ab6c-90cb04af5da8",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": true,
-            "collisionObjectId": "32e91bdf-afff-428c-9a20-471ccc73fae3",
-            "enumb": 0,
-            "eventtype": 4,
-            "m_owner": "76ae759e-264c-42b3-bb9a-a3ee2bc33aa7"
-        },
-        {
-            "id": "4afedef9-0945-4b9a-abf0-33fbb40d6851",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": true,
-            "collisionObjectId": "76dcdd54-9358-4135-8f7b-8cd179b25efc",
-            "enumb": 0,
-            "eventtype": 4,
-            "m_owner": "76ae759e-264c-42b3-bb9a-a3ee2bc33aa7"
-        },
-        {
             "id": "4f74d102-828e-4fbc-8089-443d3374f50d",
             "modelName": "GMEvent",
             "mvc": "1.0",

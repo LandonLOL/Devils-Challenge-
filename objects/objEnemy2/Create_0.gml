@@ -1,6 +1,31 @@
+/// @DnDAction : YoYo Games.Movement.Set_Direction_Random
+/// @DnDVersion : 1.1
+/// @DnDHash : 680BE816
+/// @DnDArgument : "direction" "90,180,270"
+direction = choose(90,180,270);
+
+/// @DnDAction : YoYo Games.Movement.Set_Speed
+/// @DnDVersion : 1
+/// @DnDHash : 5BFC2F33
+/// @DnDArgument : "speed" "3"
+speed = 3;
+
 /// @DnDAction : YoYo Games.Common.Variable
 /// @DnDVersion : 1
 /// @DnDHash : 3E43358E
+/// @DnDArgument : "expr" "5"
+/// @DnDArgument : "var" "bCheckDir"
+bCheckDir = 5;
+
+/// @DnDAction : YoYo Games.Common.Variable
+/// @DnDVersion : 1
+/// @DnDHash : 01E32B9A
+/// @DnDArgument : "var" "bDirChosen"
+bDirChosen = 0;
+
+/// @DnDAction : YoYo Games.Common.Variable
+/// @DnDVersion : 1
+/// @DnDHash : 097B9DB0
 /// @DnDArgument : "var" "bDirUp"
 bDirUp = 0;
 
@@ -21,39 +46,3 @@ bDirDown = 0;
 /// @DnDHash : 4E5FE41C
 /// @DnDArgument : "var" "bDirLeft"
 bDirLeft = 0;
-
-/// @DnDAction : YoYo Games.Common.Variable
-/// @DnDVersion : 1
-/// @DnDHash : 3A120B78
-/// @DnDArgument : "var" "laEnemyAntennae"
-laEnemyAntennae = 0;
-
-/// @DnDAction : YoYo Games.Data Structures.Create_List
-/// @DnDVersion : 1
-/// @DnDHash : 690868A9
-/// @DnDArgument : "var" "laEnemyAntennae"
-laEnemyAntennae = ds_list_create();
-
-/// @DnDAction : YoYo Games.Data Structures.List_Add
-/// @DnDVersion : 1
-/// @DnDHash : 03F588A8
-/// @DnDArgument : "var" "bDirUp"
-ds_list_add(bDirUp, 0);
-
-/// @DnDAction : YoYo Games.Data Structures.List_Add
-/// @DnDVersion : 1
-/// @DnDHash : 19C0847F
-/// @DnDArgument : "var" "bDirRight"
-ds_list_add(bDirRight, 0);
-
-/// @DnDAction : YoYo Games.Data Structures.List_Add
-/// @DnDVersion : 1
-/// @DnDHash : 35D78857
-/// @DnDArgument : "var" "bDirDown"
-ds_list_add(bDirDown, 0);
-
-/// @DnDAction : YoYo Games.Data Structures.List_Add
-/// @DnDVersion : 1
-/// @DnDHash : 4D3B2142
-/// @DnDArgument : "var" "bDirLeft"
-ds_list_add(bDirLeft, 0);
