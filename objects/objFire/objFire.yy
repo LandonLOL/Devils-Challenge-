@@ -1,5 +1,5 @@
 {
-    "id": "525ed04b-2f4f-4224-a210-562b13eaac40",
+    "id": "fe819617-5cd8-4065-b1cb-5a286fe05baa",
     "modelName": "GMObject",
     "mvc": "1.0",
     "name": "objFire",
