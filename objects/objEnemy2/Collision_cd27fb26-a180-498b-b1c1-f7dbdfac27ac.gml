@@ -52,8 +52,8 @@ while ((tFoundValidDir == 0)) {
 			/// @DnDVersion : 1
 			/// @DnDHash : 6809B592
 			/// @DnDParent : 3F8DF9A3
-			/// @DnDArgument : "speed" "3"
-			speed = 3;
+			/// @DnDArgument : "speed" "1"
+			speed = 1;
 		
 			/// @DnDAction : YoYo Games.Common.Variable
 			/// @DnDVersion : 1
@@ -92,8 +92,8 @@ while ((tFoundValidDir == 0)) {
 			/// @DnDVersion : 1
 			/// @DnDHash : 2DD72996
 			/// @DnDParent : 44E4D817
-			/// @DnDArgument : "speed" "3"
-			speed = 3;
+			/// @DnDArgument : "speed" "1"
+			speed = 1;
 		
 			/// @DnDAction : YoYo Games.Common.Variable
 			/// @DnDVersion : 1
@@ -132,8 +132,8 @@ while ((tFoundValidDir == 0)) {
 			/// @DnDVersion : 1
 			/// @DnDHash : 41538FCA
 			/// @DnDParent : 20BCE17A
-			/// @DnDArgument : "speed" "3"
-			speed = 3;
+			/// @DnDArgument : "speed" "1"
+			speed = 1;
 		
 			/// @DnDAction : YoYo Games.Common.Variable
 			/// @DnDVersion : 1
@@ -172,8 +172,8 @@ while ((tFoundValidDir == 0)) {
 			/// @DnDVersion : 1
 			/// @DnDHash : 7ECF3CE6
 			/// @DnDParent : 2C5684B7
-			/// @DnDArgument : "speed" "3"
-			speed = 3;
+			/// @DnDArgument : "speed" "1"
+			speed = 1;
 		
 			/// @DnDAction : YoYo Games.Common.Variable
 			/// @DnDVersion : 1
