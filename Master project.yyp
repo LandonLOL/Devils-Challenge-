@@ -167,6 +167,14 @@
             }
         },
         {
+            "Key": "38146693-b344-46e0-b6f5-93111980aaf3",
+            "Value": {
+                "id": "2209d8b0-a25f-4608-a0b9-d340e8d578e0",
+                "resourcePath": "rooms\\rmFirst\\rmFirst.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "385f6130-e05e-4274-b6be-c54888828d71",
             "Value": {
                 "id": "257f9cdf-6036-4829-b94e-0596cffc8edb",
@@ -292,6 +300,14 @@
                 "id": "68d19bc5-722a-4316-8253-d45642d9d0af",
                 "resourcePath": "rooms\\rmScoreScreen\\rmScoreScreen.yy",
                 "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "525ed04b-2f4f-4224-a210-562b13eaac40",
+            "Value": {
+                "id": "43884ffc-71fc-4499-b03f-8a334f7c98e0",
+                "resourcePath": "objects\\objFire\\objFire.yy",
+                "resourceType": "GMObject"
             }
         },
         {
