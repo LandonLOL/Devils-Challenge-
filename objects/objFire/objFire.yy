@@ -1,8 +1,8 @@
 {
-    "id": "8178bb89-1f29-4382-a6b3-54308ef3ae82",
+    "id": "fe819617-5cd8-4065-b1cb-5a286fe05baa",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "objWallCloudMid1",
+    "name": "objFire",
     "eventList": [
         
     ],
@@ -21,7 +21,7 @@
     "physicsShape": 1,
     "physicsShapePoints": null,
     "physicsStartAwake": true,
-    "solid": true,
-    "spriteId": "385f6130-e05e-4274-b6be-c54888828d71",
+    "solid": false,
+    "spriteId": "a6ea5ae0-ad83-4757-a8b8-9cb837468095",
     "visible": true
 }
