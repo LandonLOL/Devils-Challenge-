@@ -463,6 +463,14 @@
             }
         },
         {
+            "Key": "8fec8c26-709e-4c5e-8239-5d2748e14774",
+            "Value": {
+                "id": "c544563c-3451-4ef3-b873-13da733d3490",
+                "resourcePath": "sprites\\sprHiddenWalls\\sprHiddenWalls.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "923bb50c-0e80-4187-a0ab-6193a5cd0246",
             "Value": {
                 "id": "04d762bd-ff90-4e7c-b296-097dd003e4fd",
