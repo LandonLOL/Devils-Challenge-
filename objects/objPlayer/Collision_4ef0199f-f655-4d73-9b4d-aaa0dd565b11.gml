@@ -24,9 +24,9 @@ if(PlayerDieOnce == 0)
 	/// @DnDHash : 57D08284
 	/// @DnDParent : 20506306
 	/// @DnDArgument : "imageind" ""
-	/// @DnDArgument : "spriteind" "sprHidden"
-	/// @DnDSaveInfo : "spriteind" "1a778b21-a93a-4512-afac-96794c72393c"
-	sprite_index = sprHidden;
+	/// @DnDArgument : "spriteind" "sprHidden1"
+	/// @DnDSaveInfo : "spriteind" "1e3a2410-dc56-42b0-9080-9ba953560f53"
+	sprite_index = sprHidden1;
 
 	/// @DnDAction : YoYo Games.Instances.Create_Instance
 	/// @DnDVersion : 1
