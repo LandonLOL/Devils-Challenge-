@@ -111,9 +111,9 @@
             }
         },
         {
-            "Key": "1a778b21-a93a-4512-afac-96794c72393c",
+            "Key": "1e3a2410-dc56-42b0-9080-9ba953560f53",
             "Value": {
-                "id": "5d94b776-3486-4c89-846e-d4e7d9cd6107",
+                "id": "8f2980d7-d931-40a4-bf5c-040dc73f3701",
                 "resourcePath": "sprites\\sprHidden\\sprHidden.yy",
                 "resourceType": "GMSprite"
             }
@@ -708,14 +708,6 @@
                 "id": "1c30b2d0-5af8-4cd4-bb5b-c05a0d13d64a",
                 "resourcePath": "rooms\\rmScoreScreen1\\rmScoreScreen1.yy",
                 "resourceType": "GMRoom"
-            }
-        },
-        {
-            "Key": "c4db7dc6-d1e6-4585-8e67-2bcad8551051",
-            "Value": {
-                "id": "4e582eab-1ce5-401a-998c-37f18dd1d886",
-                "resourcePath": "sprites\\sprPlayerDead\\sprPlayerDead.yy",
-                "resourceType": "GMSprite"
             }
         },
         {
